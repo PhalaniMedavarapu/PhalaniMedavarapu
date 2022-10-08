@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 - 🔭 I’m currently working on exploring Full-Stack Development, CI/CD & DevOps Technologies.
 - 🌱 I’m currently learning DevSecOps (including security into the DevOps culture), Security tools & concepts

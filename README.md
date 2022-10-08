@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 - 🔭 I’m currently working on exploring Full-Stack Development, CI/CD & DevOps Technologies.
 - 🌱 I’m currently learning DevSecOps (including security into the DevOps culture), Security tools & concepts
 - 👯 I’m looking to collaborate on Open-Source Projects
@@ -8,4 +8,3 @@
 - 📫 How to reach me: https://www.linkedin.com/in/phalani/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 404!
--->
